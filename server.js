@@ -26,12 +26,12 @@ app.get('/projects', (req, res) => {
     res.json(projects);
 });
 
-// Retreiving about
+// Retreiving about info
 app.get('/about', (req, res) => {
     res.json(about);
 })
 
 
-// Listener
+// Listener 
 const PORT = process.env.PORT || 4000;
 app.listen(PORT, () => console.log(`Listening on port ${PORT}`));
