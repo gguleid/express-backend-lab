@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Study Buddy",
+        "live": "https://git.heroku.com/gs-studybuddy.git",
+        "git":  "https://github.com/gguleid/studybuddy",
+        "image": "https://i.imgur.com/mWhKGQz.jpg"
+    },
+    {
+        "name": "SuperHero",
+        "live": "https://git.heroku.com/",
+        "git":  "https://github.com/gguleid/SuperHero",
+        "image": "https://i.imgur.com/KEqIOGT.jpg"
+    }
+
+]
